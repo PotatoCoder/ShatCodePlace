@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Compiler
+{
+    public class Program
+    {
+		static void Main(string[] args)
+        {
+			console.writeline("Hello World");
+        }
+
+
+		static int Test1(string s, int i)
+		{
+			s = "Wes";
+			i = 22;
+			return i;
+		}
+       
+    }
+}

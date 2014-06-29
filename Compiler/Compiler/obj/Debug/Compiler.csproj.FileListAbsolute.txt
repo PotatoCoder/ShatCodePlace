@@ -1,0 +1,5 @@
+C:\Users\Wes\Source\Workspaces\VirtualClassroom\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Wes\Source\Workspaces\VirtualClassroom\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\Wes\Source\Workspaces\VirtualClassroom\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Wes\Source\Workspaces\VirtualClassroom\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\Wes\Source\Workspaces\VirtualClassroom\Compiler\Compiler\obj\Debug\Compiler.pdb

@@ -1,0 +1,30 @@
+﻿namespace Compiler
+{ 
+    public class Program
+    { 
+		static void Main(string[] args)
+        { 
+			
+			Console.WriteLine("Printing from Program Class");
+			Print("Hello","World");
+			PrintClass print_main = new PrintClass();
+			print_main.PrintMsg();
+		}
+
+		static void Print(string s, string w)
+		{
+			Console.WriteLine(s);
+			Console.WriteLine(w);
+			PrintClass print_stuff = new PrintClass();
+			print_stuff.PrintMsg();
+		}
+    }
+
+	public class PrintClass
+	{
+		static void PrintMsg()
+		{
+			Console.WriteLine("Printing for PrintClass");
+		}
+	}
+}

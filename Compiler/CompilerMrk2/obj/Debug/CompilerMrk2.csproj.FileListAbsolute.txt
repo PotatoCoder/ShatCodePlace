@@ -1,0 +1,6 @@
+C:\Users\Wes\Source\Workspaces\VirtualClassroom\Compiler\CompilerMrk2\bin\Debug\CompilerMrk2.exe.config
+C:\Users\Wes\Source\Workspaces\VirtualClassroom\Compiler\CompilerMrk2\bin\Debug\CompilerMrk2.exe
+C:\Users\Wes\Source\Workspaces\VirtualClassroom\Compiler\CompilerMrk2\bin\Debug\CompilerMrk2.pdb
+C:\Users\Wes\Source\Workspaces\VirtualClassroom\Compiler\CompilerMrk2\obj\Debug\CompilerMrk2.csprojResolveAssemblyReference.cache
+C:\Users\Wes\Source\Workspaces\VirtualClassroom\Compiler\CompilerMrk2\obj\Debug\CompilerMrk2.exe
+C:\Users\Wes\Source\Workspaces\VirtualClassroom\Compiler\CompilerMrk2\obj\Debug\CompilerMrk2.pdb
